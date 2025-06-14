@@ -1,0 +1,45 @@
+Title: United States Gross Domestic Product (GDP) Overview
+
+The Gross Domestic Product (GDP) of the United States is a key indicator of the country's economic performance. As of 2023, the nominal GDP of the U.S. was approximately $26.95 trillion, making it the largest economy in the world.
+
+GDP represents the total market value of all final goods and services produced in a country during a specific period. It is often measured quarterly and annually by the Bureau of Economic Analysis (BEA).
+
+Key Highlights:
+
+1947 GDP: $243.1 billion
+
+1980 GDP: $2.86 trillion
+
+2000 GDP: $10.25 trillion
+
+2010 GDP: $14.96 trillion
+
+2020 GDP (pandemic impact): $20.93 trillion
+
+2023 GDP: $26.95 trillion
+
+Real vs. Nominal GDP:
+
+Nominal GDP is not adjusted for inflation and reflects current market prices.
+
+Real GDP is adjusted for inflation and reflects the actual volume of production.
+
+GDP Components:
+
+Consumer Spending (C): The largest component, including goods and services.
+
+Investment (I): Business expenditures on capital and construction.
+
+Government Spending (G): Federal, state, and local expenditures.
+
+Net Exports (X-M): Exports minus imports.
+
+Recent Trends:
+
+The U.S. economy rebounded after COVID-19 with growth driven by technology, services, and consumer spending.
+
+Inflation and interest rate changes by the Federal Reserve have influenced GDP growth rates in 2022–2023.
+
+Sources:
+
+U.S. Bureau of Economic Analysis: https://www.bea.gov
